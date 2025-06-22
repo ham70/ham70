@@ -5,18 +5,18 @@ Binghamton University, Class of 2027
 - GPA: 3.61/4.00
 ---
 ### Experience & Projects
-**Software Developer Intern**
-- hello world
-- get f
+**Software Developer Intern** 💻
+- Assist in the development of automating university processes such as semester withdrawal forms to improve operational efficiency using **JavaScript**, Graphene, Hermes API, and Mustache Templates
+- Author comprehensive user documentation for applications, ensuring clear guidance and seamless adoption
+
 <!--->
-**NYC Cheap Eats**
-- Designed a searchable catalog of affordable restaurants in New York City using React, Node.js, and MongoDB
-- Optimized REST API routes, hosted using Vercel, and reduced server downtime reducing client-server data transfer
-speeds by up to 50%
-- Integrated dynamic JavaScript maps using the Google Maps API and Google Cloud Platform and proximity calculation using the browser built-in Geolocation API to enhance user experience
+**NYC Cheap Eats** 🥟
+- Designed a searchable catalog of affordable restaurants in New York City using **React**, **Node.js**, and **MongoDB**
+- Integrated dynamic **JavaScript** maps using the Google Maps API and **GCP** and proximity calculation using the browser built-in Geolocation API to enhance user experience
 <!--->
-**Kmap Generator**
-- wow ow wow
+**Kmap Generator** 🏁
+- Developed a desktop application in Python to generate Karnaugh maps for Boolean expressions with 2 to 4 input variables
+- Utilized the grid mapping abilities of Tkinter to provide accurate truth tables
 ---
 ### Leadership & Involvement
 - **HackBU Vice President of Outreach** 🤖 - Execute hackathon sponsorship outreach strategies and support an annual 24-hour hackathon serving 200+ hackers
