@@ -10,7 +10,7 @@ Binghamton University, Class of 2027
 - Author comprehensive user documentation for applications, ensuring clear guidance and seamless adoption
 
 <!--->
-**air-ink** 🥟
+**Air-Ink** ✍️
 - Engineered a virtual canvas calculator using **OpenCV**, **MediaPipe**, **MathPix**, and **Python** to track hand movements to draw and solve mathematical expressions and equations
 <!--->
 **NYC Cheap Eats** 🥟
