@@ -10,6 +10,9 @@ Binghamton University, Class of 2027
 - Author comprehensive user documentation for applications, ensuring clear guidance and seamless adoption
 
 <!--->
+**air-ink** 🥟
+- Engineered a virtual canvas calculator using **OpenCV**, **MediaPipe**, **MathPix**, and **Python** to track hand movements to draw and solve mathematical expressions and equations
+<!--->
 **NYC Cheap Eats** 🥟
 - Designed a searchable catalog of affordable restaurants in New York City using **React**, **Node.js**, and **MongoDB**
 - Integrated dynamic **JavaScript** maps using the Google Maps API and **GCP** and proximity calculation using the browser built-in Geolocation API to enhance user experience
