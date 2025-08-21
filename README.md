@@ -14,8 +14,8 @@ Binghamton University, Class of 2027
 - Engineered a virtual canvas calculator using **OpenCV**, **MediaPipe**, **MathPix**, and **Python** to track hand movements to draw and solve mathematical expressions and equations
 <!--->
 **Ether Stat** ✍️
-- Built a full-stack application using React Expo, Node, SQLite, and TypeScript to deliver real-time location-based insights
-- Utilized Google Cloud Platform and US Census APIs to retrieve locational data on weather, air quality, and county demographics
+- Built a full-stack application using **React Expo**, **Node**, **SQLite**, and **TypeScript** to deliver real-time location-based insights
+- Utilized **Google Cloud Platform** and US Census APIs to retrieve locational data on weather, air quality, and county demographics
 <!--->
 **NYC Cheap Eats** 🥟
 - Designed a searchable catalog of affordable restaurants in New York City using **React**, **Node.js**, and **MongoDB**
